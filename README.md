@@ -1,8 +1,6 @@
 🌀 Lain
 
 一个简洁轻量的软件项目。
-
-📁 项目结构
 Lain/
 ├── lain.exe                # 主程序（可执行文件）
 ├── data/
@@ -10,6 +8,7 @@ Lain/
 ├── static/                 # 静态资源（图标、CSS样式等）
 ├── templates/              # 前端页面与 JavaScript 逻辑
 └── config.json             # 配置文件，记录数据路径等信息
+
 
 ⚙️ 配置说明
 
